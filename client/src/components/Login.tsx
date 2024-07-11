@@ -42,6 +42,7 @@ const LoginPage = () => {
                     />
                     <button type="submit">Login</button>
                     <p>* Press login button for testing the app</p>
+                    <h1>Please wait for login. Redirect is low because of slow server</h1>
                 </form>
                 {error && <p style={{ color: 'red' }}>{error}</p>}
             </div>

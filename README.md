@@ -17,8 +17,10 @@ This is a simple React application that provides a login page and a home page di
 
 Use the following credentials to log in:
 
-- **Username:** user1
-- **Password:** password1
+Directly click on login button no need of password is nothing.
+
+- **Username:** ""
+- **Password:** ""
 
 ## Available Scripts
 
