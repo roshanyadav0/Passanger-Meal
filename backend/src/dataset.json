@@ -1,0 +1,232 @@
+{
+  "labels": [
+    {
+      "id": "pork",
+      "label": "Pork"
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood"
+    },
+    {
+      "id": "kids",
+      "label": "Kids"
+    },
+    {
+      "id": "chicken",
+      "label": "Chicken"
+    },
+    {
+      "id": "beef",
+      "label": "Beef"
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian"
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast"
+    }
+  ],
+  "meals": [
+    {
+      "id": "meal1",
+      "title": "3 course chicken",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 9.99,
+      "labels": [
+        "chicken",
+        "breakfast"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal2",
+      "title": "3 course Beef",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": [
+        "beef"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal3",
+      "title": "3 course Vegetarian",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 79.99,
+      "labels": [
+        "vegetarian"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal4",
+      "title": "3 course Seafood",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 49.99,
+      "labels": [
+        "seafood"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal5",
+      "title": "3 course Pork",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 39.99,
+      "labels": [
+        "pork"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal6",
+      "title": "3 course Kids",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 29.99,
+      "labels": [
+        "kids",
+        "breakfast"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal7",
+      "title": "3 course Chicken 2",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": [
+        "chicken"
+      ],
+      "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    }
+  ]
+}
