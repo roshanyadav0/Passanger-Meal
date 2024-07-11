@@ -2,7 +2,7 @@
 
 This is a simple React application that provides a login page and a home page displaying meals from a dataset. 
 
-## Site Link ->
+## Deployed Site Link ->
 https://passanger-meal.netlify.app/
 
 ## Installation
