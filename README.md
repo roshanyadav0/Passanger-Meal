@@ -6,7 +6,7 @@ This is a simple React application that provides a login page and a home page di
 https://passanger-meal.netlify.app/
 
 ## NOTE -> Read the note before login 
-Please wait for 50 seconds to 1 minutes after clicking the login button because server is delaying the requests more than 50 seconds.
+Please wait for 50 seconds to 1 minutes after clicking the login button because server can delay the requests more than 50 seconds.
 
 
 ## Screenshots of the User Interface of the site
